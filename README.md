@@ -12,7 +12,6 @@ If you connect it to your laptop you can make it open cmd with button A. Then wi
 
 Code Example
 
-          ![image](https://github.com/user-attachments/assets/e7858075-de04-4b41-a2a9-466986a527a0)
-
+![image](https://github.com/user-attachments/assets/776273cc-1372-4191-a26f-3869f6fa5fe6)
 
 You can implement the code from cmd from iex .... to something difrent.
