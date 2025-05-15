@@ -14,4 +14,4 @@ Code Example
 
 ![image](https://github.com/user-attachments/assets/776273cc-1372-4191-a26f-3869f6fa5fe6)
 
-You can implement the code from cmd from iex .... to something difrent.
+You can implement the code from cmd from irm |.... to something difrent.
